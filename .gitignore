@@ -1,0 +1,22 @@
+# Python 相关
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 大文件
+data/processed_data.json
+
+# 数据库文件
+milvus_lite_data.db
+
+# 其他常见忽略
+*.log
+*.tmp
+.DS_Store
+.env
+venv/
+*.swp
+
+# HuggingFace 缓存目录
+hf_cache/

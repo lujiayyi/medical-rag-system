@@ -1,0 +1,12 @@
+streamlit
+pymilvus
+sentence-transformers
+transformers
+torch
+accelerate
+rank_bm25
+scikit-learn
+numpy>=1.20.0
+tqdm
+beautifulsoup4
+markdown
